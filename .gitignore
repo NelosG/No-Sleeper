@@ -1,0 +1,17 @@
+cmake*
+output*
+*.xlsx
+*.exe*
+*/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.gradle/
+gradle/
+build/
+bin/
+
+.idea/
+*.iws
+*.iml
+*.ipr
